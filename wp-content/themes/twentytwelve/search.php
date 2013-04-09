@@ -8,7 +8,7 @@
  */
 
 get_header(); ?>
-           sss
+           
 	<section id="primary" class="site-content">
 		<div id="content" role="main">
 
